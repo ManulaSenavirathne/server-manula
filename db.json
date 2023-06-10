@@ -4,7 +4,7 @@
       {
         "id": 5,
         "name": "Stuffed Premium Soft Dog Blanket",
-        "imageSrc": "Product5.png",
+        "imageSrc": "Product11.png",
         "imageAlt": "Stuffed Premium Soft Dog Blanket",
         "price": "$65.20"
       },
@@ -12,7 +12,7 @@
       {
           "id": 6,
           "name": "Aside Treat Dispensing Dog Toys",
-          "imageSrc": "Product6.png",
+          "imageSrc": "Product22.png",
           "imageAlt": "Aside Treat Dispensing Dog Toys",
           "price": "$87.22"
         },
@@ -21,7 +21,7 @@
         {
           "id": 7,
           "name": "Dogs Natural Tearless Puppy",
-          "imageSrc": "Product7.png",
+          "imageSrc": "Product33.png",
           "imageAlt": "Dogs Natural Tearless Puppy",
           "price": "$92.22"
         },
@@ -29,7 +29,7 @@
         {
           "id": 8,
           "name": "Deqis Dog Bike Basket Pet Carrier",
-          "imageSrc": "Product8.png",
+          "imageSrc": "Product44.png",
           "imageAlt": "Deqis Dog Bike Basket Pet Carrier",
           "price": "$180.29"
         }
